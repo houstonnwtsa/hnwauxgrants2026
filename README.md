@@ -1,16 +1,15 @@
-# Chapel Media Grant Project Site
+# Women's Auxiliary Grant Project Site
 
-Static GitHub Pages site.
-
-## Upload
-1. Create a GitHub repository.
-2. Upload everything in this folder to the repository root.
-3. Go to Settings > Pages.
-4. Set Source to "Deploy from a branch".
-5. Choose the main branch and root folder.
-6. Save.
+Static GitHub Pages site for Houston Northwest Corps grant project links.
 
 ## Pages
-- index.html: landing page
-- chapel-media.html: project page
-- docs/: grant form and equipment spreadsheet
+
+- `index.html`: landing page
+- `chapel-media.html`: chapel media equipment project
+- `church-broadcast.html`: church broadcast equipment project
+- `docs/`: grant forms and equipment spreadsheets
+- `assets/`: simple project illustrations
+
+## Upload/update
+
+Upload all files and folders in this package to the root of the GitHub repository. If prompted, commit the changes to the `main` branch. GitHub Pages will redeploy automatically.
