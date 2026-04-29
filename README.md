@@ -7,6 +7,7 @@ Static GitHub Pages site for Houston Northwest Corps grant project links.
 - `index.html`: landing page
 - `chapel-media.html`: chapel media equipment project
 - `church-broadcast.html`: church broadcast equipment project
+- `bee-creative.html`: Bee Creative event supplies project
 - `docs/`: grant forms and equipment spreadsheets
 - `assets/`: simple project illustrations
 
