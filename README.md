@@ -14,3 +14,7 @@ Static GitHub Pages site for Houston Northwest Corps grant project links.
 ## Upload/update
 
 Upload all files and folders in this package to the root of the GitHub repository. If prompted, commit the changes to the `main` branch. GitHub Pages will redeploy automatically.
+
+church-presentation-software.html: Church Presentation Software project
+podcast-suite.html: Podcast Suite / Youth Media Ministry project
+summary.html: all grant request summary
